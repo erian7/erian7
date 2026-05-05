@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello 👋
+
+My name is Eryk and for the past 4 years I have been studying Mathematics at the Jagiellonian University in Cracow, Poland. 
+Right now I am looking forward to use my background to embark on a more practical journey in the world of data science, machine learning and AI. I am still learning at the moment, but I hope to start posting here more regularly in the next few months. 
 
 <!--
 **erian7/erian7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
